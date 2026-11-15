@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,order_status
+1001,1,2026-05-01,Delivered
+1002,2,2026-05-02,Delivered
+1003,3,2026-05-03,Delivered
+1004,4,2026-05-04,Cancelled
+1005,5,2026-05-05,Delivered
+1006,1,2026-05-06,Delivered
+1007,6,2026-05-07,Pending
+1008,7,2026-05-08,Delivered
+1009,8,2026-05-09,Delivered
+1010,2,2026-05-10,Cancelled
+1011,3,2026-05-11,Delivered
+1012,5,2026-05-12,Delivered
